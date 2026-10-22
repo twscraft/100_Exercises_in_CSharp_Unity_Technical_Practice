@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1584" height="396" alt="Banner_GithubProject" src="https://github.com/user-attachments/assets/b2bf4039-0851-4838-abfe-df98326a4d01" />
+<img width="1280" height="320" alt="1790573644430" src="https://github.com/user-attachments/assets/93eac57f-ca59-4709-9868-7e9fc14e9a28" />
 
 # 100 Exercises in C# & Unity
 
